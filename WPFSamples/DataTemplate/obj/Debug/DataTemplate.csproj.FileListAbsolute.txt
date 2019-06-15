@@ -1,0 +1,14 @@
+D:\Studia\Sem4\Prog.ob.i.graf\WPF-Samples\WPFSamples\DataTemplate\bin\Debug\DataTemplate.exe.config
+D:\Studia\Sem4\Prog.ob.i.graf\WPF-Samples\WPFSamples\DataTemplate\bin\Debug\DataTemplate.exe
+D:\Studia\Sem4\Prog.ob.i.graf\WPF-Samples\WPFSamples\DataTemplate\bin\Debug\DataTemplate.pdb
+D:\Studia\Sem4\Prog.ob.i.graf\WPF-Samples\WPFSamples\DataTemplate\obj\Debug\MainWindow.g.cs
+D:\Studia\Sem4\Prog.ob.i.graf\WPF-Samples\WPFSamples\DataTemplate\obj\Debug\App.g.cs
+D:\Studia\Sem4\Prog.ob.i.graf\WPF-Samples\WPFSamples\DataTemplate\obj\Debug\DataTemplate_MarkupCompile.cache
+D:\Studia\Sem4\Prog.ob.i.graf\WPF-Samples\WPFSamples\DataTemplate\obj\Debug\DataTemplate_MarkupCompile.lref
+D:\Studia\Sem4\Prog.ob.i.graf\WPF-Samples\WPFSamples\DataTemplate\obj\Debug\MainWindow.baml
+D:\Studia\Sem4\Prog.ob.i.graf\WPF-Samples\WPFSamples\DataTemplate\obj\Debug\DataTemplate.g.resources
+D:\Studia\Sem4\Prog.ob.i.graf\WPF-Samples\WPFSamples\DataTemplate\obj\Debug\DataTemplate.Properties.Resources.resources
+D:\Studia\Sem4\Prog.ob.i.graf\WPF-Samples\WPFSamples\DataTemplate\obj\Debug\DataTemplate.csproj.GenerateResource.cache
+D:\Studia\Sem4\Prog.ob.i.graf\WPF-Samples\WPFSamples\DataTemplate\obj\Debug\DataTemplate.csproj.CoreCompileInputs.cache
+D:\Studia\Sem4\Prog.ob.i.graf\WPF-Samples\WPFSamples\DataTemplate\obj\Debug\DataTemplate.exe
+D:\Studia\Sem4\Prog.ob.i.graf\WPF-Samples\WPFSamples\DataTemplate\obj\Debug\DataTemplate.pdb
